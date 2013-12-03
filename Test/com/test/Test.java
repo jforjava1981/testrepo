@@ -1,5 +1,4 @@
 package com.test;
-import com.*;
 class ArrayReferenceThrow extends RuntimeException { }
 class IndexThrow extends RuntimeException { }
 class RightHandSideThrow extends RuntimeException { }
