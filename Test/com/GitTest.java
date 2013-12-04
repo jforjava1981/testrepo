@@ -5,5 +5,5 @@ package com;
  public class GitTest{
         public static void main(String args[]){
           System.out.println("In first GitHub hosted java program");
-        }|
+        }
  }
