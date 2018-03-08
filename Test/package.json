@@ -1,0 +1,11 @@
+{
+  name:'test',
+  devDependencies :{
+     'husky':'0.14.3',
+     'eslint':'2.8.0',
+     'elint-angular-plugin':'1.4.1',
+     'gulp':'3.9.1',
+     'gulp-eslint':'2.0.0',
+     'gulp-load-plugins':'1.2.2'
+  }
+}
